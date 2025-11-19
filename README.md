@@ -94,6 +94,7 @@ Instead, it requires a Personal Access Token (PAT) for secure authentication.
 A GitHub token is a secure access key that allows authentication without using a password. I used one in this project because GitHub requires tokens instead of passwords for better security.
 
 I set up a GitHub token by going to my GitHub account settings, opening Developer Settings, selecting Personal Access Tokens, and generating a new token with the required repository permissions.
+![github tockens](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2021.06.29.png?raw=true)
 
 # Making Changes Again
 
