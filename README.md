@@ -35,6 +35,7 @@ git init
 ```
 
 After running git init, the terminal confirmed that a new Git repository was initialized.
+![local repo](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2020.58.41.png?raw=true)
 
 # Branches
 
