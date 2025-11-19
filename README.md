@@ -111,6 +111,6 @@ and then:
 ```
 git push -u origin master
 ```
-
+![html code](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2021.06.43.png?raw=true)
 
 This uploaded the updates to the remote repository successfully.
