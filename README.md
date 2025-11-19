@@ -22,7 +22,7 @@ sudo dnf install git -y
 
 GitHub is a platform for hosting and managing code.
 I used GitHub in this project to track file changes, collaborate easily, and view updates in a user-friendly way. It simplifies teamwork by enabling shared codebases, reviews, and version control.
-![git and github](
+![git and github](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2020.58.08.png?raw=true)
 
 # My Local Repository
 
