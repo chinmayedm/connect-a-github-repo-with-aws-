@@ -1,5 +1,5 @@
 # Connect a GitHub Repo with AWS
-
+![repo](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2020.57.33.png?raw=true)
 
 # What is GitHub?
 
