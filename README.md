@@ -83,8 +83,8 @@ Running:
 git log
 ```
 
-
 showed a detailed history of all commits, including commit hashes, author information, dates, and messages.
+![local git](https://github.com/chinmayedm/connect-a-github-repo-with-aws-/blob/main/Screenshot%202025-11-19%20at%2020.59.19.png?raw=true)
 
 # GitHub Tokens
 
